@@ -1,0 +1,53 @@
+/* Login */
+.main-login {
+    background-image: url("../img/jeong-tae-bae-YcprzitnQH8-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .form {
+    padding: 50px 60px;
+    border-radius: 10px;
+    max-width: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #c6c6c6;
+  }
+
+  .form__logo-img {
+      width: 200px;
+  }
+
+  .form-control-login {
+    background-color: rgba(2, 2, 2, 0.22);
+    border: none;
+    color: #c6c6c6 !important;
+  }
+
+  .form-control-login:focus {
+    background-color: rgba(2, 2, 2, 0.22);
+    border: none;
+    box-shadow: none;
+  }
+
+  .form-btn {
+    border: 2px solid #2980b9;
+    color: #2980b9;
+  }
+
+  .form-btn:hover {
+    color: #2980b9;
+    opacity: 0.7;
+  }
+
+  .form-btn:focus {
+      box-shadow: none;
+  }
+
+  .form-check-input {
+    background-color: rgba(2, 2, 2, 0.22);
+  }
+
+  .form-check-input:focus {
+    box-shadow: none;
+  }
